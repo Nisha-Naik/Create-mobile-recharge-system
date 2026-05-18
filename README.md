@@ -207,7 +207,12 @@ http://localhost:8080/
 
 # 🧠 OOP Concepts Implemented
 
-
+✔️ Encapsulation  
+✔️ Inheritance  
+✔️ Abstraction  
+✔️ Polymorphism  
+✔️ Layered Architecture  
+✔️ MVC Design Pattern  
 
 ---
 

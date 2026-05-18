@@ -29,6 +29,16 @@ The system provides recharge management, transaction handling, validation mechan
 
 ### Features
 
+- Recharge mobile numbers
+- Operator and recharge plan selection
+- Payment method handling
+- Transaction receipt generation
+- Recharge history management
+- Input validation and balance checking
+- Search and filter functionality
+
+The project follows object-oriented programming principles and demonstrates Java web application development using JSP, Servlets, JDBC, and MySQL.
+
 
 ---
 
